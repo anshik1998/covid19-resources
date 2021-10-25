@@ -1,7 +1,6 @@
 # Covid-19 Resources
 
 Code written during the second wave of Covid. Surely not a well written, as I finished this one in 2 days due to the urgency. 
-<br/>OOPs concepts were not considered and code reusability is well limited.
 
 ## Features it offers:
 
